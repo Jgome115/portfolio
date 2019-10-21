@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <h1 class="display-4">Hello</h1>
+    <v-container fill-height class="red"></v-container>
   </v-app>
 </template>
 
